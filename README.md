@@ -1,1 +1,1 @@
-# OOP_LAB_JAVA
+OOP_LAB2
